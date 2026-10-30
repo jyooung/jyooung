@@ -34,7 +34,7 @@ AI 서비스를 실제로 운영되는 제품의 백엔드로 만드는 일을 �
 
 ## 📂 Projects
 
-### 💼 AgentStudio — 엔터프라이즈 AI Agent 플랫폼 `실무 · 사내 비공개`
+### 💼 AgentStudio — 엔터프라이즈 AI Agent 플랫폼
 > 2026.03 ~ 2026.09 · 제품 개발팀 4명 · Python, Flask, PostgreSQL, Elasticsearch, Redis, Celery
 
 - 사내 공통 Agent 실행 엔진과 제품을 잇는 **HTTP/SSE 원격 실행 구조** 구축
